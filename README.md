@@ -1,2 +1,2 @@
 # Balkan boss
-32 slota
+32 slotc
